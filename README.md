@@ -28,7 +28,10 @@
  Run Software
  ============
  
- To run software simply 
+ Step 1: Download Git to clone the repository of this software. http://git-scm.com/download/win
+ Step 2: 
+
+ 
  
  
  
