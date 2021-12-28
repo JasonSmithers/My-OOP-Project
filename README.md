@@ -28,9 +28,14 @@
  Run Software
  ============
  
- Step 1: Download Git to clone the repository of this software. http://git-scm.com/download/win
- Step 2: 
-
+ * Step 1: Download Git to clone the repository of this software. http://git-scm.com/download/win
+ * Step 2: Then follow this steps on cloning a repository to your local computer https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+ or
+ ==
+ Step 1: You can download the zip file from the link http://git-scm.com/download/win
+ Step 2: download eclipse from this link https://www.eclipse.org/downloads/
+ Step 3: and open the file named 
+ 
  
  
  
